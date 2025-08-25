@@ -27,4 +27,5 @@ Currently, the project has two independent modules:
 - Apply machine learning algorithms to improve detection accuracy.
 
 ## Author
-Syed Mohamed Faizal
+Mohammed Faizal I.
+
